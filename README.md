@@ -10,3 +10,5 @@ Live Demo : https://cinema-imdb.herokuapp.com/
 
  You can search movies by simply typing movie's name in the input box.
 <img src="imdb3.png" width="800" height="500" alt="screenshpt">
+# License
+ licensed under the [MIT LICENSE](LICENSE)
